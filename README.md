@@ -1,3 +1,5 @@
 # PollenTracker
 
 Created for Hack OHI/O 2021 by three seniors at Upper Arlington High School: JC Yan, Ben Underwood and Emma Wang.
+
+We built an app that uses the community as a whole to track large movements of pollen by educating people about how to identify common allergens and providing a platform to post their locations so we can model pollen movement according to wind patterns. This app provides an opportunity for people to take allergy medications ahead of time or to steer clear of the area altogether. 
