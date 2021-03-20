@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PollenTracker</string>
+    <string name="title_home">Map</string>
+    <string name="title_dashboard">Photos</string>
+    <string name="title_notifications">Community</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWljcm9jaGlwc2RvbnRsaWUiLCJhIjoiY2ttaHpjb3dkMGM3eTJva2Rra3VwcDJkOCJ9.ijO3XglIeZQxps0g7UxVsA</string>
+    <string name="communityText">How to identify different types of plants</string>
+
+</resources>
